@@ -1,0 +1,9 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter29\Chapter29\bin\Debug\Chapter29.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter29\Chapter29\bin\Debug\Chapter29.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter29\Chapter29\bin\Debug\Chapter29.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter29\Chapter29\bin\Debug\Chapter29.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter29\Chapter29\obj\Debug\Chapter29.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter29\Chapter29\obj\Debug\Chapter29.pdb
+D:\Programming\C#\Sessions01\Chapter29\Chapter29\bin\Debug\Chapter29.exe.config
+D:\Programming\C#\Sessions01\Chapter29\Chapter29\obj\Debug\Chapter29.exe
+D:\Programming\C#\Sessions01\Chapter29\Chapter29\obj\Debug\Chapter29.pdb

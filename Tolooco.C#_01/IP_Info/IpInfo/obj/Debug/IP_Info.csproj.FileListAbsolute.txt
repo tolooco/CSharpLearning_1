@@ -1,0 +1,6 @@
+C:\Users\Amir\Desktop\Current\C#\IP_Info\IpInfo\bin\Debug\IpInfo.exe.config
+C:\Users\Amir\Desktop\Current\C#\IP_Info\IpInfo\obj\Debug\IpInfo.exe
+C:\Users\Amir\Desktop\Current\C#\IP_Info\IpInfo\obj\Debug\IpInfo.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\IP_Info\IpInfo\bin\Debug\IpInfo.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\IP_Info\IpInfo\obj\Debug\IpInfo.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\IP_Info\IpInfo\obj\Debug\IpInfo.pdb

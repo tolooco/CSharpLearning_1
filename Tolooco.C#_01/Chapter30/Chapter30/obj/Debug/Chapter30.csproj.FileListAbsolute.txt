@@ -1,0 +1,10 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter30\Chapter30\bin\Debug\Chapter30.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter30\Chapter30\bin\Debug\Chapter30.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter30\Chapter30\bin\Debug\Chapter30.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter30\Chapter30\bin\Debug\Chapter30.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter30\Chapter30\obj\Debug\Chapter30.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter30\Chapter30\obj\Debug\Chapter30.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter30\Chapter30\obj\Debug\Chapter30.pdb
+D:\Programming\C#\Sessions01\Chapter30\Chapter30\bin\Debug\Chapter30.exe.config
+D:\Programming\C#\Sessions01\Chapter30\Chapter30\obj\Debug\Chapter30.exe
+D:\Programming\C#\Sessions01\Chapter30\Chapter30\obj\Debug\Chapter30.pdb

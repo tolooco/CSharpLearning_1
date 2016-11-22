@@ -1,0 +1,15 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter01\Chapter01\bin\Debug\Chapter01.exe.config
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter01\Chapter01\bin\Debug\Chapter01.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter01\Chapter01\bin\Debug\Chapter01.pdb
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter01\Chapter01\obj\Debug\Chapter01.csprojResolveAssemblyReference.cache
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter01\Chapter01\obj\Debug\Chapter01.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter01\Chapter01\obj\Debug\Chapter01.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter01\Chapter01\bin\Debug\Chapter01.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter01\Chapter01\obj\Debug\Chapter01.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter01\Chapter01\obj\Debug\Chapter01.pdb
+F:\C#\Sessions01\Chapter01\Chapter01\bin\Debug\Chapter01.exe.config
+F:\C#\Sessions01\Chapter01\Chapter01\obj\Debug\Chapter01.exe
+F:\C#\Sessions01\Chapter01\Chapter01\obj\Debug\Chapter01.pdb
+C:\Users\ACSS\GITHUB\Tolooco.C#_01\Chapter01\Chapter01\bin\Debug\Chapter01.exe.config
+C:\Users\ACSS\GITHUB\Tolooco.C#_01\Chapter01\Chapter01\obj\Debug\Chapter01.exe
+C:\Users\ACSS\GITHUB\Tolooco.C#_01\Chapter01\Chapter01\obj\Debug\Chapter01.pdb

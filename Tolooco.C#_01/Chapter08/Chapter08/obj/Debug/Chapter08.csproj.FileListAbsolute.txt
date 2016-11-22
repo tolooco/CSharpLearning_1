@@ -1,0 +1,7 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter08\Chapter08\bin\Debug\Chapter08.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter08\Chapter08\bin\Debug\Chapter08.exe.config
+F:\C#\Sessions01\Chapter08\Chapter08\bin\Debug\Chapter08.exe.config
+F:\C#\Sessions01\Chapter08\Chapter08\bin\Debug\Chapter08.exe
+F:\C#\Sessions01\Chapter08\Chapter08\bin\Debug\Chapter08.pdb
+F:\C#\Sessions01\Chapter08\Chapter08\obj\Debug\Chapter08.exe
+F:\C#\Sessions01\Chapter08\Chapter08\obj\Debug\Chapter08.pdb

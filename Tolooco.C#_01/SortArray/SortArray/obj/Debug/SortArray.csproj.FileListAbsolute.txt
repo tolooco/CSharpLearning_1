@@ -1,0 +1,5 @@
+c:\users\amir\documents\visual studio 2013\Projects\Session03\SortArray\SortArray\bin\Debug\SortArray.exe.config
+c:\users\amir\documents\visual studio 2013\Projects\Session03\SortArray\SortArray\bin\Debug\SortArray.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\SortArray\SortArray\bin\Debug\SortArray.pdb
+c:\users\amir\documents\visual studio 2013\Projects\Session03\SortArray\SortArray\obj\Debug\SortArray.exe
+c:\users\amir\documents\visual studio 2013\Projects\Session03\SortArray\SortArray\obj\Debug\SortArray.pdb

@@ -1,0 +1,12 @@
+c:\users\me\documents\visual studio 2013\Projects\IpInfo\IpInfo\bin\Debug\IpInfo.exe.config
+c:\users\me\documents\visual studio 2013\Projects\IpInfo\IpInfo\bin\Debug\IpInfo.exe
+c:\users\me\documents\visual studio 2013\Projects\IpInfo\IpInfo\bin\Debug\IpInfo.pdb
+c:\users\me\documents\visual studio 2013\Projects\IpInfo\IpInfo\obj\Debug\IpInfo.csprojResolveAssemblyReference.cache
+c:\users\me\documents\visual studio 2013\Projects\IpInfo\IpInfo\obj\Debug\IpInfo.exe
+c:\users\me\documents\visual studio 2013\Projects\IpInfo\IpInfo\obj\Debug\IpInfo.pdb
+C:\Users\Amir\Desktop\Current\C#\IpInfo\IpInfo\bin\Debug\IpInfo.exe.config
+C:\Users\Amir\Desktop\Current\C#\IpInfo\IpInfo\obj\Debug\IpInfo.exe
+C:\Users\Amir\Desktop\Current\C#\IpInfo\IpInfo\obj\Debug\IpInfo.pdb
+C:\Users\Amir\Desktop\Current\C#\IpInfo\IpInfo\bin\Debug\IpInfo.exe
+C:\Users\Amir\Desktop\Current\C#\IpInfo\IpInfo\bin\Debug\IpInfo.pdb
+C:\Users\Amir\Desktop\Current\C#\IpInfo\IpInfo\obj\Debug\IpInfo.csprojResolveAssemblyReference.cache

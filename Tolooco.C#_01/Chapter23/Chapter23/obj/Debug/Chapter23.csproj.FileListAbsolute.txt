@@ -1,0 +1,6 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter23\Chapter23\bin\Debug\Chapter23.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter23\Chapter23\bin\Debug\Chapter23.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter23\Chapter23\bin\Debug\Chapter23.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter23\Chapter23\bin\Debug\Chapter23.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter23\Chapter23\obj\Debug\Chapter23.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter23\Chapter23\obj\Debug\Chapter23.pdb

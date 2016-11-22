@@ -1,0 +1,11 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter28\Chapter28\bin\Debug\Chapter28.exe.config
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter28\Chapter28\bin\Debug\Chapter28.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter28\Chapter28\bin\Debug\Chapter28.pdb
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter28\Chapter28\obj\Debug\Chapter28.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter28\Chapter28\obj\Debug\Chapter28.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter28\Chapter28\bin\Debug\Chapter28.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter28\Chapter28\obj\Debug\Chapter28.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter28\Chapter28\obj\Debug\Chapter28.pdb
+D:\Programming\C#\Sessions01\Chapter28\Chapter28\bin\Debug\Chapter28.exe.config
+D:\Programming\C#\Sessions01\Chapter28\Chapter28\obj\Debug\Chapter28.exe
+D:\Programming\C#\Sessions01\Chapter28\Chapter28\obj\Debug\Chapter28.pdb

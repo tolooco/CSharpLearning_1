@@ -1,0 +1,4 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter16\Chapter16\bin\Debug\Chapter16.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter16\Chapter16\bin\Debug\Chapter16.exe.config
+D:\Programming\C#\Sessions01\Chapter16\Chapter16\bin\Debug\Chapter16.exe.config
+D:\Programming\2014\Tolooco\Edit_Video\C#\Projects\C#\Sessions01\Chapter16\Chapter16\bin\Debug\Chapter16.exe.config

@@ -1,0 +1,14 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter24\Chapter24\bin\Debug\Chapter24.exe.config
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter24\Chapter24\bin\Debug\Chapter24.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter24\Chapter24\bin\Debug\Chapter24.pdb
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter24\Chapter24\obj\Debug\Chapter24.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter24\Chapter24\obj\Debug\Chapter24.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter24\Chapter24\bin\Debug\Chapter24.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter24\Chapter24\obj\Debug\Chapter24.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter24\Chapter24\obj\Debug\Chapter24.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter24\Chapter24\bin\Debug\Chapter24.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter24\Chapter24\bin\Debug\Chapter24.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter24\Chapter24\obj\Debug\Chapter24.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Sessions01\Chapter24\Chapter24\bin\Debug\Chapter24.exe.config
+D:\Programming\C#\Sessions01\Chapter24\Chapter24\obj\Debug\Chapter24.exe
+D:\Programming\C#\Sessions01\Chapter24\Chapter24\obj\Debug\Chapter24.pdb

@@ -1,0 +1,7 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter10\Chapter10\bin\Debug\Chapter10.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter10\Chapter10\bin\Debug\Chapter10.exe.config
+F:\C#\Sessions01\Chapter10\Chapter10\bin\Debug\Chapter10.exe.config
+F:\C#\Sessions01\Chapter10\Chapter10\bin\Debug\Chapter10.exe
+F:\C#\Sessions01\Chapter10\Chapter10\bin\Debug\Chapter10.pdb
+F:\C#\Sessions01\Chapter10\Chapter10\obj\Debug\Chapter10.exe
+F:\C#\Sessions01\Chapter10\Chapter10\obj\Debug\Chapter10.pdb

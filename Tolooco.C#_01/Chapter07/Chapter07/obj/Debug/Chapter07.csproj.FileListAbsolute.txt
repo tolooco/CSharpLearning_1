@@ -1,0 +1,14 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter07\Chapter07\bin\Debug\Chapter07.exe.config
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter07\Chapter07\bin\Debug\Chapter07.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter07\Chapter07\bin\Debug\Chapter07.pdb
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter07\Chapter07\obj\Debug\Chapter07.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter07\Chapter07\obj\Debug\Chapter07.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter07\Chapter07\bin\Debug\Chapter07.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter07\Chapter07\obj\Debug\Chapter07.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter07\Chapter07\obj\Debug\Chapter07.pdb
+F:\C#\Sessions01\Chapter07\Chapter07\bin\Debug\Chapter07.exe.config
+F:\C#\Sessions01\Chapter07\Chapter07\obj\Debug\Chapter07.exe
+F:\C#\Sessions01\Chapter07\Chapter07\obj\Debug\Chapter07.pdb
+F:\C#\Sessions01\Chapter07\Chapter07\bin\Debug\Chapter07.exe
+F:\C#\Sessions01\Chapter07\Chapter07\bin\Debug\Chapter07.pdb
+F:\C#\Sessions01\Chapter07\Chapter07\obj\Debug\Chapter07.csprojResolveAssemblyReference.cache

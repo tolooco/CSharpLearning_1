@@ -1,0 +1,9 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter26\Chapter26\bin\Debug\Chapter26.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter26\Chapter26\bin\Debug\Chapter26.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter26\Chapter26\bin\Debug\Chapter26.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter26\Chapter26\bin\Debug\Chapter26.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter26\Chapter26\obj\Debug\Chapter26.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter26\Chapter26\obj\Debug\Chapter26.pdb
+D:\Programming\C#\Sessions01\Chapter26\Chapter26\bin\Debug\Chapter26.exe.config
+D:\Programming\C#\Sessions01\Chapter26\Chapter26\obj\Debug\Chapter26.exe
+D:\Programming\C#\Sessions01\Chapter26\Chapter26\obj\Debug\Chapter26.pdb

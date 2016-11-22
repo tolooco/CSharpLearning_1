@@ -1,0 +1,13 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter17\Chapter17\bin\Debug\Chapter17.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter17\Chapter17\bin\Debug\Chapter17.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter17\Chapter17\obj\Debug\Chapter17.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter17\Chapter17\bin\Debug\Chapter17.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter17\Chapter17\bin\Debug\Chapter17.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter17\Chapter17\obj\Debug\Chapter17.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter17\Chapter17\obj\Debug\Chapter17.pdb
+D:\Programming\C#\Sessions01\Chapter17\Chapter17\bin\Debug\Chapter17.exe.config
+D:\Programming\C#\Sessions01\Chapter17\Chapter17\obj\Debug\Chapter17.exe
+D:\Programming\C#\Sessions01\Chapter17\Chapter17\obj\Debug\Chapter17.pdb
+D:\Programming\C#\Sessions01\Chapter17\Chapter17\bin\Debug\Chapter17.exe
+D:\Programming\C#\Sessions01\Chapter17\Chapter17\bin\Debug\Chapter17.pdb
+D:\Programming\C#\Sessions01\Chapter17\Chapter17\obj\Debug\Chapter17.csprojResolveAssemblyReference.cache

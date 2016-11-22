@@ -1,0 +1,8 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter04\Chapter04\bin\Debug\Chapter04.exe.config
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter04\Chapter04\bin\Debug\Chapter04.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter04\Chapter04\bin\Debug\Chapter04.pdb
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter04\Chapter04\obj\Debug\Chapter04.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter04\Chapter04\obj\Debug\Chapter04.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter04\Chapter04\bin\Debug\Chapter04.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter04\Chapter04\obj\Debug\Chapter04.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter04\Chapter04\obj\Debug\Chapter04.pdb

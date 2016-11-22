@@ -1,0 +1,7 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter11\Chapter11\bin\Debug\Chapter11.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter11\Chapter11\bin\Debug\Chapter11.exe.config
+F:\C#\Sessions01\Chapter11\Chapter11\bin\Debug\Chapter11.exe.config
+F:\C#\Sessions01\Chapter11\Chapter11\bin\Debug\Chapter11.exe
+F:\C#\Sessions01\Chapter11\Chapter11\bin\Debug\Chapter11.pdb
+F:\C#\Sessions01\Chapter11\Chapter11\obj\Debug\Chapter11.exe
+F:\C#\Sessions01\Chapter11\Chapter11\obj\Debug\Chapter11.pdb

@@ -1,0 +1,13 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter06\Chapter06\bin\Debug\Chapter06.exe.config
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter06\Chapter06\bin\Debug\Chapter06.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter06\Chapter06\bin\Debug\Chapter06.pdb
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter06\Chapter06\obj\Debug\Chapter06.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter06\Chapter06\obj\Debug\Chapter06.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter06\Chapter06\bin\Debug\Chapter06.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter06\Chapter06\obj\Debug\Chapter06.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter06\Chapter06\obj\Debug\Chapter06.pdb
+F:\C#\Sessions01\Chapter06\Chapter06\bin\Debug\Chapter06.exe.config
+F:\C#\Sessions01\Chapter06\Chapter06\obj\Debug\Chapter06.exe
+F:\C#\Sessions01\Chapter06\Chapter06\obj\Debug\Chapter06.pdb
+F:\C#\Sessions01\Chapter06\Chapter06\bin\Debug\Chapter06.exe
+F:\C#\Sessions01\Chapter06\Chapter06\bin\Debug\Chapter06.pdb

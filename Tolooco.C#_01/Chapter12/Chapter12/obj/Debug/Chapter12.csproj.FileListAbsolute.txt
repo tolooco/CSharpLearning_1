@@ -1,0 +1,3 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter12\Chapter12\bin\Debug\Chapter12.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter12\Chapter12\bin\Debug\Chapter12.exe.config
+D:\Programming\C#\Sessions01\Chapter12\Chapter12\bin\Debug\Chapter12.exe.config

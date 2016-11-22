@@ -1,0 +1,17 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter13\Chapter13\bin\Debug\Chapter13.exe.config
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter13\Chapter13\bin\Debug\Chapter13.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter13\Chapter13\bin\Debug\Chapter13.pdb
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter13\Chapter13\obj\Debug\Chapter13.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter13\Chapter13\obj\Debug\Chapter13.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter13\Chapter13\bin\Debug\Chapter13.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter13\Chapter13\obj\Debug\Chapter13.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter13\Chapter13\obj\Debug\Chapter13.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter13\Chapter13\bin\Debug\Chapter13.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter13\Chapter13\bin\Debug\Chapter13.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter13\Chapter13\obj\Debug\Chapter13.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Sessions01\Chapter13\Chapter13\bin\Debug\Chapter13.exe.config
+D:\Programming\C#\Sessions01\Chapter13\Chapter13\obj\Debug\Chapter13.exe
+D:\Programming\C#\Sessions01\Chapter13\Chapter13\obj\Debug\Chapter13.pdb
+D:\Programming\C#\Sessions01\Chapter13\Chapter13\bin\Debug\Chapter13.exe
+D:\Programming\C#\Sessions01\Chapter13\Chapter13\bin\Debug\Chapter13.pdb
+D:\Programming\C#\Sessions01\Chapter13\Chapter13\obj\Debug\Chapter13.csprojResolveAssemblyReference.cache

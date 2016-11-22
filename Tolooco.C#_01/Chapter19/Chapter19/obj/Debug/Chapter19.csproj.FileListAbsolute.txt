@@ -1,0 +1,14 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter19\Chapter19\bin\Debug\Chapter19.exe.config
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter19\Chapter19\bin\Debug\Chapter19.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter19\Chapter19\bin\Debug\Chapter19.pdb
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter19\Chapter19\obj\Debug\Chapter19.exe
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter19\Chapter19\obj\Debug\Chapter19.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter19\Chapter19\bin\Debug\Chapter19.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter19\Chapter19\obj\Debug\Chapter19.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter19\Chapter19\obj\Debug\Chapter19.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter19\Chapter19\bin\Debug\Chapter19.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter19\Chapter19\bin\Debug\Chapter19.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter19\Chapter19\obj\Debug\Chapter19.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Sessions01\Chapter19\Chapter19\bin\Debug\Chapter19.exe.config
+D:\Programming\C#\Sessions01\Chapter19\Chapter19\obj\Debug\Chapter19.exe
+D:\Programming\C#\Sessions01\Chapter19\Chapter19\obj\Debug\Chapter19.pdb

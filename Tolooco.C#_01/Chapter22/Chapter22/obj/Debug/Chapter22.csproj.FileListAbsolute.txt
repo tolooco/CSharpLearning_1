@@ -1,0 +1,7 @@
+c:\users\pakrokh\documents\visual studio 2013\Projects\Session01\Chapter22\Chapter22\bin\Debug\Chapter22.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter22\Chapter22\bin\Debug\Chapter22.exe.config
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter22\Chapter22\bin\Debug\Chapter22.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter22\Chapter22\bin\Debug\Chapter22.pdb
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter22\Chapter22\obj\Debug\Chapter22.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter22\Chapter22\obj\Debug\Chapter22.exe
+C:\Users\Amir\Desktop\Current\C#\Sessions01\Chapter22\Chapter22\obj\Debug\Chapter22.pdb
